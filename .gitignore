@@ -1,0 +1,6 @@
+output/
+__pycache__/
+
+# personal data: keep your CV local
+*.docx
+*.pdf
