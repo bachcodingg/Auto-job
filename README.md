@@ -1,4 +1,4 @@
-# Job Finder: software jobs in Helsinki, Espoo & Munich and ranked my CV.
+# Job Finder: software jobs in Helsinki, Espoo & Munich and ranked my CV
 
 ## How it works
 1. **CV analysis** (`jobfinder/cv.py`): reads `CV_VoGiaBach (1).docx` and scores each skill from 0 to 1.
